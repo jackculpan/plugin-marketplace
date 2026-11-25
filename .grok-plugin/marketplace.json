@@ -487,6 +487,21 @@
       "homepage": "https://docs.expo.dev/agents/",
       "keywords": ["expo"],
       "domains": ["expo.dev", "docs.expo.dev", "expo.io"]
+    },
+    {
+      "name": "seatwifi",
+      "description": "SeatWiFi plugin for Grok. In-flight WiFi data: provider by flight, airline or tail number, measured speeds, and Starlink rollout status. Read-only, no account needed.",
+      "category": "travel",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SeatWifi/mcp.git",
+        "sha": "05eeb0042f35fd1c0820477d47321275db161e97",
+        "path": "plugins/seatwifi"
+      },
+      "homepage": "https://seatwifi.com/for-developers",
+      "keywords": ["seatwifi", "seat wifi", "seatwifi mcp"],
+      "domains": ["seatwifi.com", "mcp.seatwifi.com"],
+      "version": "1.2.2"
     }
   ]
 }
